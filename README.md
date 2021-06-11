@@ -4,7 +4,7 @@ Feature Extraction with CNN - InceptionV3
 
 In this code, i'm using Monolithics Classifiers and Ensembles (homogeneous and heterogeneous)
 
-Examples of Monolithics Classifiers:
+Used examples of Monolithics Classifiers:
 
 * KneighborsClassifier              (KNN)
 * DecisionTreeClassifier            (DT)
@@ -12,13 +12,13 @@ Examples of Monolithics Classifiers:
 * Gaussian Naive_Bayes              (NB)
 * Multi-layer Perceptron Classifier (MLP)
 
-Examples of Ensembles homogeneous: 
+Used examples of Ensembles homogeneous: 
 
 * BaggingClassifier                 (BG)
 * AdaBoostClassifier                (ADA)
 * RandomForestClassifer             (RF)
 
-Examples of Ensembles heterogeneous: 
+Used examples of Ensembles heterogeneous: 
 
 * VotingClassifier                  (CB)
 
